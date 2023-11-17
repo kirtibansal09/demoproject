@@ -1,4 +1,4 @@
 # demoproject
 This is my repository
 <br>
-Author- Kirti Bansal
+Author- Kirti (Nit Kkr)
